@@ -1,5 +1,17 @@
 Audify Credits:
 
 Libraries used,
+  1. Realm - http://realm.io
+  2. Butterknife - http://jakewharton.github.io/butterknife/
+  3. Otto - http://square.github.io/otto/
+  4. Timber - https://github.com/JakeWharton/timber
+  5. AppIntro - https://github.com/PaoloRotolo/AppIntro
+  6. RecyclerView FastScroller - https://github.com/danoz73/RecyclerViewFastScroller
+  
 Graphical assets used,
+  1. Thanks to https://www.iconfinder.com/denir (License : http://creativecommons.org/licenses/by/3.0/)
+  2. Thanks to https://www.iconfinder.com/PixelBuddha (License : http://creativecommons.org/licenses/by/3.0/)
+
 Developer: Balachandar KM [ appkiddo007<at>gmail<dot>com ]
+
+Thanks to Cong.Le for his feedbacks about the app. 
