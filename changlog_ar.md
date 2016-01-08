@@ -1,1 +1,1 @@
-<p dir="RTL">Audify التغيير</p>
+Audify التغيير
