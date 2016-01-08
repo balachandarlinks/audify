@@ -1,2 +1,2 @@
-<p dir="RTL">Audify التغيير</p>
-<p dir="RTL>الإصدار 1.60</p>
+<p dir="RTL">Audify التغيير
+الإصدار 1.60</p>
