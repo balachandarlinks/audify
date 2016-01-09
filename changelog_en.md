@@ -1,5 +1,5 @@
-Audify Changelog:
-Version 1.60<br/>
+<b>Audify Changelog:</b><br/>
+<i>Version 1.60</i><br/>
 1. Bluetooth SCO (Calls only bluetooth headsets) support. <br/>
 2. Manage Bluetooth devices. Block specific bluetooth devices in Audify.<br/>
 3. Improved duplicate message detection for Whatsapp<br/>
