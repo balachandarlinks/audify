@@ -1,4 +1,5 @@
 Audify Changelog:
+
 Versione 1.60
 
 1. Supporto per il Bluetooth SCO (auricolari Bluetooth che funzionano solo per le chiamate).
