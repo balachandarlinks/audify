@@ -7,7 +7,7 @@
 5. Quick turn on/off privacy mode from notification.<br/>
 6. New Ringer mode option to make audify to respect your ringer mode.<br/>
 7. Portuguese support. Thanks to Toni Nando.<br/>
-❤ Crash fixes.<br/><br/>
+8. Crash fixes.<br/><br/>
 <i>Version 1.60</i><br/>
 1. Bluetooth SCO (Calls only bluetooth headsets) support.<br/>
 2. Manage Bluetooth devices. Block specific bluetooth devices in Audify.<br/>
