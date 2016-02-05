@@ -1,4 +1,16 @@
 <b>Audify Changelog:</b><br/>
+<i>Verison 1.75</i><br/>
+1. Introducing Audify locate to auto save locations based on your audify usage. You can use it easily track your vehicle location.<br/>
+2. Now Audify reads even the content that appears when you expand the notifications. So you will get more details from apps like Inbox and Gmail.<br/>
+3. Option to support Audify development to get a crown to your cute Audify bot.<br/>
+4. Crash fixes for some devices with accessibility service.<br/><br/>
+<i>Version 1.70</i><br/>
+1. Now you can fine tune notifications from any app. Yeah, You can now add blacklisted words for every app individually.<br/>
+2. Lovely landscape support.<br/>
+3. Totally redesigned app management screen.<br/>
+4. Bug fix for to properly announce the incoming caller number.<br/>
+5. Audify is ready to be served for marshmallow users with no permissions upfront.<br/>
+6. Stats !!! Get to know your Audify stats. Share it and show your love :)<br/><br/>
 <i>Version 1.65</i><br/>
 1. Fix for SCO headset related issues and support for all devices with A2DP support.<br/>
 2. Ringermode reset bug fix for Audify AutoMute.<br/>
