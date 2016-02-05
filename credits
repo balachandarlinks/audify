@@ -6,6 +6,10 @@ Libraries used,
   4. Timber - https://github.com/JakeWharton/timber
   5. AppIntro - https://github.com/PaoloRotolo/AppIntro
   6. RecyclerView FastScroller - https://github.com/danoz73/RecyclerViewFastScroller
+  7. Android-Location-Tracker - https://github.com/quentin7b/android-location-tracker
+  8. Material-Dialogs - https://github.com/afollestad/material-dialogs
+  9. AutoLabelUI - https://github.com/DavidPizarro/AutoLabelUI
+  10. Android-InApp-Billing-V3 - https://github.com/anjlab/android-inapp-billing-v3
 
 Graphical assets used,
   1. Thanks to https://www.iconfinder.com/denir (License : http://creativecommons.org/licenses/by/3.0/)
@@ -13,10 +17,10 @@ Graphical assets used,
 
 Translated to Arabic by Ikrami Ahmad.
 Translated to Italian by Luca Vallerini, Giulio Coluccia and Malcolm Cosenza.
-Translated to Portuguese by Toni Nando.
+Translated to Portuguese (PT) by Toni Nando.
 
-Special Thanks to @RobSwish for giving a nice shape to the Audify bot as my ❤ imagined him ;)
-Special Thanks to @CongLe for his feedbacks about the app. 
+Special Thanks to @RobSwish for giving me a starter with Audify bot in Sketch ;)
+Special Thanks to @CongLe for his feedbacks about the app during the initial development. 
 
 Developed by: Balachandar KM [ appkiddo007<at>gmail<dot>com ]
 
