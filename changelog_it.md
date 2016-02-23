@@ -1,4 +1,9 @@
 <b>Audify Changelog:</b><br/>
+<i>Version 1.80 Beta</i><br/>
+1. Audify AutoStart - Schedule Audify's working hours.<br/>
+2. Audify AutoMute is now built-in. So Audify will magically silence your ringtones when enabled. So you won't hear the ringtones when Audify announces the notifications.<br/>
+3. Clear Mode - For those who are bored of dismissing notifications, Now Audify can dismiss them after announcing.<br/>
+4. Audify has learned something :) Now turning your screen ON will silence Audify If it is speaking.<br/><br/>
 <i>Verison 1.75</i><br/>
 1. Introducing Audify locate to auto save locations based on your audify usage. You can use it easily track your vehicle location.<br/>
 2. Now Audify reads even the content that appears when you expand the notifications. So you will get more details from apps like Inbox and Gmail.<br/>
