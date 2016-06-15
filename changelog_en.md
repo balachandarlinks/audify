@@ -1,4 +1,12 @@
 <b>Audify Changelog:</b><br/>
+<i>Version 2.0 </i><br/>
+🔮 Introducing Audify Widgets to quickly enable/disable Audify Headphones and Speaker.<br/>
+👋 Nice, Quick onboarding tutorial for first-time users.<br/>
+🇭🇺 Helló - Translated to The Hungarian by Krisztián Androsovits<br/>
+🎤 Support to read song info from famous music apps Spotify, GooglePlay Music, Savvn and PocketCasts.Suggested by Audify user Jorge Pérez Berrio.<br/>
+⚙ Now Audify will mute immediately (if speaking) when you unlock your screen. Earlier it used to mute while your screen wakes up. <br/>
+🐞 Bug fixes.<br/>
+
 <i>Version 1.80 Beta</i><br/>
 1. Audify AutoStart - Schedule Audify's working hours.<br/>
 2. Audify AutoMute is now built-in. So Audify will magically silence your ringtones when enabled. So you won't hear the ringtones when Audify announces the notifications.<br/>
